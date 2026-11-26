@@ -22,16 +22,16 @@
 ### 📊 GitHub Analytics & Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipanshuu09&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshuu09&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maroof021&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroof021&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dipanshuu09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=maroof021&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshuu09&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maroof021&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <!--
